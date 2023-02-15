@@ -1,0 +1,8 @@
+
+
+bandit==1.*
+coverage==6.*
+isort==5.*
+pylint==2.*
+pytest==7.*
+moto==4.*
